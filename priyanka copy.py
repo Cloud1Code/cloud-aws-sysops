@@ -1,3 +1,5 @@
+
+
 import boto3
 
 def delete_route_in_custom_route_tables(vpc_id, destination_cidr='172.16.0.0/12'):
